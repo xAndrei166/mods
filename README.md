@@ -1,2 +1,3 @@
-# mods
-Minecraft funny mods for the FUnnyes
+# grue_server
+
+gurb
